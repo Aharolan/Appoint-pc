@@ -1,0 +1,23 @@
+.rent-computer {
+    padding: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .save-button {
+    padding: 10px 20px;
+    border: none;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .save-button:disabled {
+    cursor: not-allowed;
+  }
+  
+  .booked {
+    background-color: blue;
+  }
+  
